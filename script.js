@@ -4,7 +4,7 @@
 
 // Configuration
 const CONTACT_CONFIG = {
-    phone: '573118149803', // WhatsApp number (with country code, no +)
+    phone: '573127018025', // WhatsApp number (with country code, no +)
     email: 'servialcance00@gmail.com'
 };
 
